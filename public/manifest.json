@@ -1,0 +1,21 @@
+{
+  "short_name": "login tienda",
+  "name": "login pagina e-commerce",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.gif",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  
+  ],
+  "start_url": "http://localhost:3000/login-user",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
